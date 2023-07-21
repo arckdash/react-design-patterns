@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Pie Shell - 5",
+        "price": 20,
+        "rating": 23
+    },
+    {
+        "name": "Crab - Back Fin Meat, Canned",
+        "price": 49,
+        "rating": 28
+    },
+    {
+        "name": "Godiva White Chocolate",
+        "price": 12,
+        "rating": 68
+    },
+    {
+        "name": "Fruit Salad Deluxe",
+        "price": 50,
+        "rating": 21
+    },
+    {
+        "name": "Pasta - Bauletti, Chicken White",
+        "price": 75,
+        "rating": 43
+    },
+    {
+        "name": "Wine - Delicato Merlot",
+        "price": 39,
+        "rating": 81
+    },
+    {
+        "name": "Chocolate - Dark",
+        "price": 89,
+        "rating": 15
+    },
+    {
+        "name": "Shiratamako - Rice Flour",
+        "price": 97,
+        "rating": 3
+    },
+    {
+        "name": "Pepper - Green, Chili",
+        "price": 52,
+        "rating": 78
+    },
+    {
+        "name": "Sardines",
+        "price": 85,
+        "rating": 82
+    }
+]
